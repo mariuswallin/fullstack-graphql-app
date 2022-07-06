@@ -9765,10 +9765,10 @@ ts-node@^9:
     source-map-support "^0.5.17"
     yn "3.1.1"
 
-ts-pattern@3.3.5:
-  version "3.3.5"
-  resolved "https://registry.yarnpkg.com/ts-pattern/-/ts-pattern-3.3.5.tgz#9a4bde1d44f9afe7e82409820f68790232c2544c"
-  integrity sha512-LD+wFR/RNckk1DrKV0LTH4KIT9wRqnnOjtEf77ovhKcVi8gf83Uf6U7OdywEua6KD9SbHadUdfolayfIUiPxzw==
+ts-pattern@4.0.4:
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/ts-pattern/-/ts-pattern-4.0.4.tgz#95bae7be40851628f93c6fd647cb0183c27c23a7"
+  integrity sha512-gDKHf3T+4X2w5k5IpD4FQ6P5b0LRYW7sJdf/yG7uAdxKitgk2Z8UZLdSBjrXs5mI0Vq6E/hRQd6+Kh3FbdjBzw==
 
 tsc-alias@1.6.11:
   version "1.6.11"
